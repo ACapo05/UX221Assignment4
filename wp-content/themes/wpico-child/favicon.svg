@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Brew Better coffee cup logo">
+  <title>Brew Better</title>
+  <!-- Cup body -->
+  <rect x="12" y="28" width="34" height="24" rx="4" fill="#6b3a2a"/>
+  <!-- Cup handle -->
+  <path d="M46 34 Q58 34 58 44 Q58 54 46 54" stroke="#6b3a2a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Coffee surface -->
+  <ellipse cx="29" cy="28" rx="17" ry="5" fill="#c9935a"/>
+  <!-- Steam lines -->
+  <path d="M22 20 Q24 14 22 8" stroke="#e8d5b7" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M29 18 Q31 12 29 6" stroke="#e8d5b7" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M36 20 Q38 14 36 8" stroke="#e8d5b7" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Saucer -->
+  <ellipse cx="29" cy="52" rx="22" ry="5" fill="#3b1f0e"/>
+</svg>
